@@ -21,3 +21,4 @@ A command-line based trading bot that integrates with Binance Testnet API to pla
 - CLI Argument Parsing
 
 ## 📂 Project Structure
+Thankyou 
