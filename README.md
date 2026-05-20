@@ -1,5 +1,5 @@
 ## Trading Bot Assignment
-#
+
 
 This project was developed as part of a Python Intern assessment.
 
