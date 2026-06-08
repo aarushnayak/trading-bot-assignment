@@ -1,3 +1,4 @@
+#thunder 
 from binance.client import Client
 import os
 from dotenv import load_dotenv
